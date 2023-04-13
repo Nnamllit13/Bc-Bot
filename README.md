@@ -1,3 +1,3 @@
 # Bc-Bot
 
-My Discord Bot in Python
+My Discord Bot in Python :)
